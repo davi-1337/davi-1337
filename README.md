@@ -1,5 +1,2 @@
-
-> **“README is for the weak.”**
-> — *Me*
-
-soooo.... i'm weak
+## Hey yoo!
+I'm Davi Antônio! 
